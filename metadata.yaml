@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17946#Eirik-the-Red-s-Saga
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
 identifiers:
